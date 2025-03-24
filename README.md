@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This repository contains the Group 13 term project for modeling multiphase flow systems. The project focuses on simulating and analyzing the behavior of multiple interacting fluid phases in various engineering and scientific applications. The goal is to provide accurate and efficient computational models to better understand complex multiphase flow phenomena.
+This repository contains the Group 13 term project for modeling multiphase flow systems. The project focuses on simulating and analyzing the behavior of multiple interacting fluid phases in various engineering and scientific applications. It includes detailed functions for gas and oil properties, flow dynamics, and visualization of pressure and temperature traverses. The repository is designed for educational and research purposes in petroleum engineering. The goal is to provide accurate and efficient computational models to better understand complex multiphase flow phenomena.
 
 ## Features
 
