@@ -22,7 +22,7 @@ This repository contains the Group 13 term project for modeling multiphase flow 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Multiphase-Flow-Modeling.git
+   git clone https://github.com/Ikenna1011/Multiphase-Flow-Modeling.git
    ```
 2. Navigate to the project directory:
    ```bash
